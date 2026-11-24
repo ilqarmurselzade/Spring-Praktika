@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: testders
+server:
+  servlet:
+    session:
+      timeout: 1m
